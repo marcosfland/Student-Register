@@ -1,2 +1,2 @@
 # Student-Register
- 
+This project is a student register system that allows users to manage and keep track of student information. It provides functionalities such as adding new students, updating their details, and viewing the list of registered students. The system aims to simplify the process of managing student records and provide a centralized platform for easy access and organization.
